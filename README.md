@@ -1,5 +1,5 @@
 # Digital Banking System — Microservices
-## YouTube Series: Building Digital Banking System from Scratch
+
 
 ---
 
